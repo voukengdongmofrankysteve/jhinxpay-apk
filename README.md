@@ -1,9 +1,9 @@
 # JhinxPay APK
 
 ## Latest Release
-- **Version:** v1.0.36
-- **Build Date:** 20260401-212712
-- **Commit:** 9d9e76cbab5157fc18337fc6b6bd8db7e800ccb7
+- **Version:** v1.0.37
+- **Build Date:** 20260402-003431
+- **Commit:** 656634aeefa263392198fb476fe3c01ec4c9d8b4
 
 ## Installation
 1. Download `app-release.apk` from this repository
